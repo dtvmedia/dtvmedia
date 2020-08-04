@@ -38,5 +38,5 @@ Passionate Developer, Specialized in PHP, Laravel and web stuff in general. Co-F
 ### Github Stats
 
 <img align="left" alt="dtvmedias's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dtvmedia&show_icons=true&hide_border=true&count_private=true&theme=blue-green" />
-<img align="right" alt="dtvmedias's Code Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtvmedia&theme=blue-green&layout=compact" />
+<img align="right" alt="dtvmedias's Code Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtvmedia&theme=blue-green" />
 
